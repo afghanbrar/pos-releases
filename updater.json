@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SE9pY1FyMzREeVlkbHk0bmorRjJUSkRFdU1ONDdwU0I3NUt2dlZwLzE2TVR2TTdiMDREOE9NZGt3ZzZ4bHlqb29QTHIrOHVIbGtwT0dtTHYzaEJvMWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNjkyNDc2CWZpbGU6UGl6emFTaG9wUE9TXzEuMS4zX3g2NC1zZXR1cC5leGUKUTJKMFJjQ1FvZFd4ejhoNzhUVm85WmlXMXAwamdYRWdkblF1MHd0MDhzemJoQWFwS01hNFFmcTVJTjRZcXphWGNydy9RWGt6QkVwQm41ZnFwVEVpQnc9PQo=",
-      "url": "https://github.com/afghanbrar/pos-releases/releases/download/v1.1.3/PizzaShopPOS_1.1.3_x64-setup.exe"
+      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/v1.1.3/PizzaShopPOS_1.1.3_x64-setup.exe"
     }
   },
   "manual_signatures": {
