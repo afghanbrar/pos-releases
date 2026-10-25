@@ -1,16 +1,17 @@
 {
-  "version": "v1.1.4",
-  "notes": "Session isolation fix (audit report strictly isolates active drawer session orders & sales), dedicated Full Shift Audit Report with A4 download, shop logo on A4 PNG audit export, custom user-specified opening float, fixed drawer closing bug.",
-  "pub_date": "2026-10-23T17:40:00Z",
+  "app": "PizzaShopPOS",
+  "version": "v1.1.5",
+  "notes": "• Bill receipt: Pizza variant/size (Small, Medium, Large) prints clearly below item name.\n• Unified 80mm thermal receipt physical print size for Tenant 37 (Baba Bitess) and Tenant 38 (AL HALAL).\n• Orders table & sales calculations accurately record actual received amount (Rs. 0 for full udhaar orders).\n• Sync real-time inventory deduction & food cost fix in Profit & Loss report.\n• Dedicated Udhaar Settlement Receipt with digital channels (Cash, Easypaisa, JazzCash, Bank).",
+  "pub_date": "2026-10-25T07:11:18.157Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOSt0bXpVcEFzc0RZTlUzUW92VW5LdElrL3BCTzIvUjRSRkRleG9JWC9oL3VQMkxoZ3I0VVZPL2gzU3pWM01KZ3FnTithR3hzTmVpQW9oRk1jbXFTOUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc3MjQxCWZpbGU6UGl6emFTaG9wUE9TXzEuMS40X3g2NC1zZXR1cC5leGUKL01kZFVtY3VLaHlqdVo1MExvSXlSVTBvTTZ1MWMyaXFQVWZwTHVtaVIrWDVtTGU4MDJzcXFnMWNqVjJMdVB4WDUxdDhiQ2hNVHJPV2ZIRHBrL0tIQmc9PQo=",
-      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/v1.1.4/PizzaShopPOS_1.1.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTJoMXl4OHFqM2trSmRrNlFMQUxkWTRWditNWDM1WmdZRjFTN3ZLK0dnVG1FWFRXbmk3V3ZhNlZ2YUh5WDc5M1Y4UUNRNk5sSURnL1JydVlQeW91VkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEyMjcxCWZpbGU6UGl6emFTaG9wUE9TXzEuMS41X3g2NC1zZXR1cC5leGUKOENSczViMFQySkxScmxERVE0VldCRGRaNVFkbkRsbG5idFR6ODg3Sjh5S3F3Z0hkM1hZbm9MaG1MelRUVkFVOWNaSngwRlNOWFB1YUU3ZGoyK2ZBQVE9PQo=",
+      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/v1.1.5/PizzaShopPOS_1.1.5_x64-setup.exe"
     }
   },
   "manual_signatures": {
-    "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTloUThPUGRlQkl4KzJLMnlYVXFVYWxpS3NTRlFTUGVDTjdoR014aVRVMnZETTR0QnMrMXRsRkNhMHh4bXJDeFVIYVo3RXh4QWh2MHliRCtGS05vVndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc3MjYwCWZpbGU6UGl6emFTaG9wUE9TXzEuMS40X3g2NF9lbi1VUy5tc2kKeng0MWw1emo0VXFabWNWUnVDWEJPMnRYSGlTSmpKSnY3bTJBZDhEaGt5MlhZUjhtMi9OTGFSNlZlL1d3TnJnbEUxNThkcnRVS2lWUVFXWml5NHk0Q1E9PQo=",
-    "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOSt0bXpVcEFzc0RZTlUzUW92VW5LdElrL3BCTzIvUjRSRkRleG9JWC9oL3VQMkxoZ3I0VVZPL2gzU3pWM01KZ3FnTithR3hzTmVpQW9oRk1jbXFTOUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc3MjQxCWZpbGU6UGl6emFTaG9wUE9TXzEuMS40X3g2NC1zZXR1cC5leGUKL01kZFVtY3VLaHlqdVo1MExvSXlSVTBvTTZ1MWMyaXFQVWZwTHVtaVIrWDVtTGU4MDJzcXFnMWNqVjJMdVB4WDUxdDhiQ2hNVHJPV2ZIRHBrL0tIQmc9PQo=",
-    "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOXdyRmp6dStCeXgxa1pOTzZjT2g3c3FQZ0JlMnE3dWpmcGloVFJIY2FqNUJ2elk1T0dTM3FrdEZUbjRhVlUrQzFrOFhac0RmT2RpT2p5dTgzTy9zY2d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNzc3Mjg1CWZpbGU6UGl6emFTaG9wUE9TXzEuMS40X3g2NC1zZXR1cC5uc2lzLnppcApkZEtORTBQNUlFbjdiRi9mSVk2blUxNEFWUFhISng4RUVXdTRycDZ5bG5oM2JyMXZFcm1XMGxnK0pmN3QveGhkS1p6OHBWOExmUi9QOE9KcldXOVlBUT09Cg=="
+    "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTREUFNkQVhXTlYweXU0V0RaT1F5SXhudXJneUJLS0xBMm55TDJudXVQMWVPRVQ0TjMyZHZFK0dGWTM2bktqZC81Zkd4Q0JlbWZUcEREK3MyNnFIN0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEyMjc4CWZpbGU6UGl6emFTaG9wUE9TXzEuMS41X3g2NF9lbi1VUy5tc2kKb3dDT1FZRk1nOTB2YUhPYkJ2R0ZaNmd5RFNDOWJ4Z2duN0dTbUxCZ1JFQk55WUZvTDJCRWYveDc0UnF4WGRXai8xZE5UUnBwQUtHelJhcGd3WnRHRGc9PQo=",
+    "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTJoMXl4OHFqM2trSmRrNlFMQUxkWTRWditNWDM1WmdZRjFTN3ZLK0dnVG1FWFRXbmk3V3ZhNlZ2YUh5WDc5M1Y4UUNRNk5sSURnL1JydVlQeW91VkFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEyMjcxCWZpbGU6UGl6emFTaG9wUE9TXzEuMS41X3g2NC1zZXR1cC5leGUKOENSczViMFQySkxScmxERVE0VldCRGRaNVFkbkRsbG5idFR6ODg3Sjh5S3F3Z0hkM1hZbm9MaG1MelRUVkFVOWNaSngwRlNOWFB1YUU3ZGoyK2ZBQVE9PQo=",
+    "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTJSa3RwWnJoVnBaN2E0Z21QMjR0VkNvRUJRZmY3VTNNLzhkeFlDdUt0ZW1pZ1BKYTVSUnZjamtuOGJhRk1KSW5EdlpXcnBVbUowa0FRNFB0YW85WkFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyOTEyMjc0CWZpbGU6UGl6emFTaG9wUE9TXzEuMS41X3g2NC1zZXR1cC5uc2lzLnppcAovLzlNcU9vZHBJbWMrektDNWF2QWM5Ykd3bDd0WW5RTkQraG1FNWV0T1NqK3lvdmRGMFl1Q2dSMlNxTnBqbUVzMEJHUGhPR0NBNW1zeHkwN2JrQktDZz09Cg=="
   }
 }
