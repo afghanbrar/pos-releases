@@ -1,0 +1,17 @@
+{
+  "app": "AI-ProfitLogic",
+  "version": "v1.3.5",
+  "notes": "Version 1.3.5: Profit funding source for expenses with real-time balance deduction, live available amount display across all procurement and cash movement modals, digital wallets counted into profit balance, and downloadable high-resolution PNG Profit Statement Invoice Report.",
+  "pub_date": "2026-11-02T15:00:00+05:00",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEUxL0krZlpLcEFKK1o4SkF2ajBwUmZIemN2Y2dXTnM1U3dDNUJOdWhYNGg5SGdWYWlkTFdCNVhiaDd1bVFmKzJhVENrWGE2Rmh5WFBpR2ZTWFJlMnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI3NjM5CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjVfeDY0LXNldHVwLm5zaXMuemlwCmxVeStXWEJFTGlwSEdPUHdJdEd6TUFqMndjSjU1UFdOczcvS0g0MlpmOUZwV1ZkT2pQQzdEOWhjK0Q3bkRicExCeUgzdjRrdDh6Y2xORTdUQTl2VEFBPT0K",
+      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/mobile-store/v1.3.5/AI-ProfitLogic_1.3.5_x64-setup.nsis.zip"
+    }
+  },
+  "manual_signatures": {
+    "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SE8xRVViWlo2Y1FSbW0xTVBpRndBMnBSNEtmcXg4dEJGb1FROGZXTVBDVUVuTzdoN0VHUHBvR25Ibll0WlFVZFM4NERocHRmQ0lRRFh1a0QxNnFkRGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjE0MTIyCWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjVfeDY0X2VuLVVTLm1zaQpRTkg1dXA1d3NvT1NUeGl6TEZMTlkzcHRaUDhnRlNZSUNEYUEzQkVaWkFEa3NWVGRRVDdhaW5IaG1QN3NITTBXdEtONTRna1UvU0Z5Um5YQmhIbTNBdz09Cg==",
+    "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SE9wUm9hMnBab2RBblIyL2FWQVdobjdKWVBDaEMweWxYeVBkd2FmWGhyREFaL0dYNUIxV2drdFZSY0krVFJGd0pZMWw0dTBGVjROSHp5UHc2V1RjN3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI3NjM5CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjVfeDY0LXNldHVwLmV4ZQp5WnZaNWZvTHZ4MEdtM0xhZU9lSllKSFB6MWxmM0Mxai9vTmtldC83M2J1NWdySWNFWUxZWHljMDRuU1ZCZnJMRWN6RE8rWmh4UkxpZU4weEhMQkhDdz09Cg==",
+    "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEUxL0krZlpLcEFKK1o4SkF2ajBwUmZIemN2Y2dXTnM1U3dDNUJOdWhYNGg5SGdWYWlkTFdCNVhiaDd1bVFmKzJhVENrWGE2Rmh5WFBpR2ZTWFJlMnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzNjI3NjM5CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjVfeDY0LXNldHVwLm5zaXMuemlwCmxVeStXWEJFTGlwSEdPUHdJdEd6TUFqMndjSjU1UFdOczcvS0g0MlpmOUZwV1ZkT2pQQzdEOWhjK0Q3bkRicExCeUgzdjRrdDh6Y2xORTdUQTl2VEFBPT0K"
+  }
+}
