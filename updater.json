@@ -1,17 +1,17 @@
 {
   "app": "PizzaShopPOS",
-  "version": "v1.2.7",
-  "notes": "• Orders Page Segment Filter: Added instant one-click filters for All, Dine-In, Takeaway, and Delivery orders with real-time dynamic total sales sum and count calculations.\n• Default Shop Branding Fix: When tenant shop name is empty, receipts and invoices now default to 'Ai Mobiles' instead of legacy Al Halal, while preserving any custom tenant name entered.\n• Multi-Tenant Isolated Neon DB: Complete per-tenant PostgreSQL isolation with zero cross-tenant data bleed.\n• Idempotent Transactional Orders: End-to-end duplicate order protection via UUID v4 tokens and atomic sequential numbering.",
-  "pub_date": "2026-11-21T14:00:01.908Z",
+  "version": "v1.2.8",
+  "notes": "• Multi-Tenant Isolated Neon DB: Complete per-tenant PostgreSQL isolation with zero cross-tenant data bleed.\n• Authentic Staff PIN Auth: Direct tenant login preserving real user credentials without resets.\n• Persistent Updater Engine: Reliable version comparison preventing recurring update popups once updated.\n• Live Cloud Sync: Automated orders, items, and inventory sync to high-speed Neon pools.",
+  "pub_date": "2026-11-21T17:30:37.016Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTk2WWcza1IvMDF4ZUxYbmdYVXFXOFRJV3BCa0JQMktQZ2l1dE9FcmdFODN0RXVxamxvb3psNC9ORkJYWG44UnlXS1lzbDdhTWlQdFdIQ1AwdGtEVUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5NTk0CWZpbGU6UGl6emFTaG9wUE9TXzEuMi43X3g2NC1zZXR1cC5leGUKQ0Nuck1SWndTeTVMaE5RRm52QVIydUd5N3VuZzdON3hkd2FWaE9jTXBRVGlSZDN0WkZXellqVFRDOGpxYjdhZXVPV3cvMGpoSVkwazJ1K3hVdnIxQWc9PQo=",
-      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/v1.2.7/PizzaShopPOS_1.2.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTdRZm5sbVBkY3hQa0wySVkyNUxucFVlQVh4QTYremJwWVJpcEE1L201ajBPais4Q2FOaWRqTFRLRzVWY0hleEN1UWVvNzhNMmgyYkVZL0didDlVelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyMjI2CWZpbGU6UGl6emFTaG9wUE9TXzEuMi44X3g2NC1zZXR1cC5leGUKcVEwb0JzQVppekR3UTJOWmNiWmZ2bU9TV1lJS3htYjB0YnpnQ1VVYnhwWTZGSUdnMjM3Ykh1bVBGVjZyemRheE94MWN6VExYUEtPbHBaSFplYllwQlE9PQo=",
+      "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/v1.2.8/PizzaShopPOS_1.2.8_x64-setup.exe"
     }
   },
   "manual_signatures": {
-    "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTZWVHN4T1AzbkNoS3FwQVd1ckYwdzVxZ0JGZ0hWeFVTUGtiT3B1ZGl5NUtMcWgva09LWW9tUm1Mck9iMmwwa3YrOTJUQm51NG9zd1ZPck9aMzRBRGdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5NjAxCWZpbGU6UGl6emFTaG9wUE9TXzEuMi43X3g2NF9lbi1VUy5tc2kKTGhHeWJZQjdCZHV2aWNXZTNXbHQ4TEg0Um9iSGl6R1JsdnVPcHZudGtjcWNlR2NraDhHWGg3VTRXbTZsUWx5SXZ0SWkzbnRmQjMzY0NsdWN0TTJBQ3c9PQo=",
-    "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTk2WWcza1IvMDF4ZUxYbmdYVXFXOFRJV3BCa0JQMktQZ2l1dE9FcmdFODN0RXVxamxvb3psNC9ORkJYWG44UnlXS1lzbDdhTWlQdFdIQ1AwdGtEVUFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5NTk0CWZpbGU6UGl6emFTaG9wUE9TXzEuMi43X3g2NC1zZXR1cC5leGUKQ0Nuck1SWndTeTVMaE5RRm52QVIydUd5N3VuZzdON3hkd2FWaE9jTXBRVGlSZDN0WkZXellqVFRDOGpxYjdhZXVPV3cvMGpoSVkwazJ1K3hVdnIxQWc9PQo=",
-    "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTN2bFlFQXhWRkRWMG0wNTJLMlZDUjFFOEIrSXN6VWRpeUtkMFUxVzF3NTkwVWZDejdSVnpDVENZMEpRemdSSlFXS0lzSk5VVWpoRVIxNkpOL0xGTFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjY5NTk4CWZpbGU6UGl6emFTaG9wUE9TXzEuMi43X3g2NC1zZXR1cC5uc2lzLnppcApSb1MxVmkwZkhHRDdhdWlOU2xKMFBISXdOUGZnUEI1VXVyVEtENDVqWEtEeHNBaFVUWHhmZmR5cnI1QjQwZFdKTmsySU9ORE41aCtIdGlvL3J6T1lCQT09Cg=="
+    "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOStZNkxWUUQxeFlpYkhrNThYQVg3YWxabTZRdWpWdXNUUUFqRFVFM3BYZG1vQVlBdjNLL1VkdVpNbnh4elBrd3pyaUYxWjZYWW5RMnYyZGtBa3UrWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyMjM2CWZpbGU6UGl6emFTaG9wUE9TXzEuMi44X3g2NF9lbi1VUy5tc2kKRG1ZdXEvQ01KZG8zeFk1azJuTXdNQlUxRjMvMkpzbWc2dFlDSEtsRUhodWZNdWVDRzNPQzRkMHR2K3ovZVJqNW1qKy81K1BUSG9JSkI5d0twMlpsQnc9PQo=",
+    "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTdRZm5sbVBkY3hQa0wySVkyNUxucFVlQVh4QTYremJwWVJpcEE1L201ajBPais4Q2FOaWRqTFRLRzVWY0hleEN1UWVvNzhNMmgyYkVZL0didDlVelFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyMjI2CWZpbGU6UGl6emFTaG9wUE9TXzEuMi44X3g2NC1zZXR1cC5leGUKcVEwb0JzQVppekR3UTJOWmNiWmZ2bU9TV1lJS3htYjB0YnpnQ1VVYnhwWTZGSUdnMjM3Ykh1bVBGVjZyemRheE94MWN6VExYUEtPbHBaSFplYllwQlE9PQo=",
+    "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYTcyMlpYa3NKOTRCZldrMkxEc0NKZmFsSWI2ZVZtenlJaEo2dXJka3NhbXlrVDZ5TzFBMTJ0TGErNXViMnJuU3NXZ2ZOQnh4eGxBck5IanlBSG52cnNLK2xUNmpSTWdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MjgyMjMyCWZpbGU6UGl6emFTaG9wUE9TXzEuMi44X3g2NC1zZXR1cC5uc2lzLnppcApsL2JJQ0xIZGUySGVXWDdlRi9YdVpidmhNVWRvVGpJbk12b0N3enVYZmZNdVAvL1B6N2lEWDM3TVMySlMyZjR0NGdsMEltNU45c2VkbVEvSlR1WlBCdz09Cg=="
   }
 }
