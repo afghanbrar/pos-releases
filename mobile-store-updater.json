@@ -1,17 +1,17 @@
 {
-    "version":  "v1.3.9",
-    "pub_date":  "2026-11-25T19:50:00+05:00",
-    "app":  "AI-ProfitLogic",
-    "manual_signatures":  {
-                              "zip":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEkvcllGYytJVEc1NkpxL1BPMy9jV1haeXZyRXBGdnFTdG9wK0J5S1plSzhmS3AzcVp1QzdtU0hJc3dhendGR3FmZWVIVHlOT3hCWEVxbVh6V2xFN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MDc3CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjlfeDY0LXNldHVwLm5zaXMuemlwCmVGbkgza2RPT29LR3BuNjlxdk8rWEVXdkFvb2M4cGFCYzZONGZNRExOYm5vK05iT0JwVjEzblhKUmUyd3UxMTlYVVkrblE3MjViQSs0a1p6MFFTV0R3PT0K",
-                              "exe":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEtJY0tZQzZKRXVxSi9uUFJVSUhKMmRBZDBQRWdURjc4RzZRMFdTcml4Ym10ay9RRnkzWGpVMlRGLzV5dkpBZ3F0aElBNUNGZlB6bFF2cnMyZlZRVWdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MDc3CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjlfeDY0LXNldHVwLmV4ZQpWWEd6Sm5CTUc1VFdrWVBmbWlON2JxbmxPWXBya2l3ZzByMU1SeXJaQi9Bc1NoS0pRTC9NRkZIRkozSGxHenJwcXBWNjhRWm5OMk5jTHVBYzVsOCtEUT09Cg==",
-                              "msi":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SE5tdFovajkrY0wyeGlnYXNRaDZrR2R3NVZGcXV2cmM1UU42elU1dVhiWHVFQTYwSE9Yd1ZDZTlVZXpxOTg4Y2piaysyRHh0SjZNUXYwM0dMNXdRb3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MDc3CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjlfeDY0X2VuLVVTLm1zaQpMTThPYS8rSkx1azRXanZFa0FRbk1GN3lVaUc5NnhyQkR6WGRsY3o4QlZMM2xPclJBVDNsSDBSUGV5a1o3UUlHd3VyV0VaZnpBTkxxc3Nad1oreXhCQT09Cg=="
-                          },
-    "platforms":  {
-                      "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEkvcllGYytJVEc1NkpxL1BPMy9jV1haeXZyRXBGdnFTdG9wK0J5S1plSzhmS3AzcVp1QzdtU0hJc3dhendGR3FmZWVIVHlOT3hCWEVxbVh6V2xFN1FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NjE4MDc3CWZpbGU6QUktUHJvZml0TG9naWNfMS4zLjlfeDY0LXNldHVwLm5zaXMuemlwCmVGbkgza2RPT29LR3BuNjlxdk8rWEVXdkFvb2M4cGFCYzZONGZNRExOYm5vK05iT0JwVjEzblhKUmUyd3UxMTlYVVkrblE3MjViQSs0a1p6MFFTV0R3PT0K",
-                                             "url":  "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/mobile-store/v1.3.9/AI-ProfitLogic_1.3.9_x64-setup.nsis.zip"
-                                         }
-                  },
-    "notes":  "Version 1.3.9: Fix phone-less customer search blank screen, repair checkout discount & customer baqaya sync, negative balance prevention on inventory & digital bills/withdraw, route customer khata wasooli to profit only, and simplified cart checkout workflow."
+    "version": "v1.4.0",
+    "pub_date": "2026-11-28T06:10:23.961Z",
+    "app": "AI-ProfitLogic",
+    "manual_signatures": {
+        "zip": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEdDMTROcWloVHBnWHRvSmFpZWlOMkd6YjIwVERqZDFTZzcraWVVVER4aVhNMDZrMnhNM1RVenJiOU5rSWZsNUtzZWkwQm5yOWRIR2JVTHdXSXZXUHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ2MTg3CWZpbGU6QUktUHJvZml0TG9naWNfMS40LjBfeDY0LXNldHVwLm5zaXMuemlwCktlcVpvbDFVK3hqM0ZBYXZIZndwWWhBYUM4ODZWZFFkTitmcGpJNUx0VG1ITDMwcnBEQUhIdWxYZ1VxMjNucXQ1YXVNSVNmeXFKNHdJemliMWp6ZkRnPT0K",
+        "exe": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SE5pY0hNTWFxNVY4MW1pM2M1L3IrS2h6ZHl6ZXhpcWxneE1kUHhuR3VyeGJlL2ZKYURIODk2cFk4NTI5REZTMGtLOUhCM0oxRzhuWXVnK1IxNnI0M3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ2MTg3CWZpbGU6QUktUHJvZml0TG9naWNfMS40LjBfeDY0LXNldHVwLmV4ZQp0SVdHeUpjb3dlTUU3Z3Z0MFEvMGRFYm1ObW1BbWhNc1BlRmk4K3Y1RWFWRmN3YjNiSHJvanB4RXN4RzNnS2RwdjNxM3BjSTcwWm5tVTFqbkQwdmhDQT09Cg==",
+        "msi": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEhTZzRnQjlieEtUUnQ3dC9RTHphLzQyM05tbVdJY3BWbEd5TEViQTY0UXMzSENnWlRnQmxzU09oaUFWaEFQRVJHVlZ3aDdrN2hpNnJXaGRUR3BPZUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ2MTg3CWZpbGU6QUktUHJvZml0TG9naWNfMS40LjBfeDY0X2VuLVVTLm1zaQp2WksvMXdvOUNFUlZaOGZRaVpUc1ZzVFpNb2J4YXd0SDMzWDNtaHBXSkcycU5XdTR4emI5cTBpV0ppM0kzbWNqRmF1RWdEVWp0UThob3RicnVNeURBUT09Cg=="
+    },
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUQS94RksrMXo3SEdDMTROcWloVHBnWHRvSmFpZWlOMkd6YjIwVERqZDFTZzcraWVVVER4aVhNMDZrMnhNM1RVenJiOU5rSWZsNUtzZWkwQm5yOWRIR2JVTHdXSXZXUHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODQ2MTg3CWZpbGU6QUktUHJvZml0TG9naWNfMS40LjBfeDY0LXNldHVwLm5zaXMuemlwCktlcVpvbDFVK3hqM0ZBYXZIZndwWWhBYUM4ODZWZFFkTitmcGpJNUx0VG1ITDMwcnBEQUhIdWxYZ1VxMjNucXQ1YXVNSVNmeXFKNHdJemliMWp6ZkRnPT0K",
+            "url": "https://raw.githubusercontent.com/afghanbrar/pos-releases/main/releases/mobile-store/v1.4.0/AI-ProfitLogic_1.4.0_x64-setup.nsis.zip"
+        }
+    },
+    "notes": "Version 1.4.0: Fixed digital bill payments to strictly deduct from digital vault without adding to profit cash or sales revenue; vault opening balances & digital transfer principals excluded from profit tracking; only transaction fees count as profit."
 }
